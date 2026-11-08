@@ -1,16 +1,24 @@
 
 {   
     "users": [
-        {
+      {
              "id": 2031,
              "name": "Satoru",
              "surname": "Gojo",
              "balance": 9999
+        },
+        {
+            "id": 1,
+            "name": "John", 
+            "surname": "Doe",
+            "balance": 1000
+
         }
-    ]
+    ],
+
     "products": [
         {
-            "tomato"
+            
         }
     ]
 }
