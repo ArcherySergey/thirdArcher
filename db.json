@@ -1,23 +1,18 @@
-<<<<<<< HEAD
+
 {   
     "users": [
-        {
+      {
              "id": 2031,
              "name": "Satoru",
              "surname": "Gojo",
              "balance": 9999
-        }
-    ]
-}
-=======
-{
-    "users": [
-        {   
+        },
+        {
             "id": 1,
             "name": "John", 
             "surname": "Doe",
             "balance": 1000
->>>>>>> 4a9873e38d6be7e75461a45149c1a9a9b60c9751
+
         }
     ]
 }   
